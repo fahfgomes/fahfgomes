@@ -1,5 +1,5 @@
 ## Olá eu sou o Fabricio Gomes, estudante de TI na FATEC!
-Atualmente estudo HTML, CSS e JavaScript!
+Atualmente estudo NodeJS e React!
 <div align="center">
   <a href="https://github.com/fahfgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahfgomes&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
