@@ -1,5 +1,4 @@
-## Olá eu sou o Fabricio Gomes, estudante de TI na FATEC!
-Atualmente estudo NodeJS e React!
+## Olá eu sou o Fabricio Gomes, formado em TI na FATEC. Atualmente sou engenheiro de dados há mais de 2 anos, atuando sempre com Python e tecnologias na nuvem 
 <div align="center">
   <a href="https://github.com/fahfgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahfgomes&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
