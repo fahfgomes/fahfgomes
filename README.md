@@ -5,11 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahfgomes&layout=compact&langs_count=7&theme=black"/>
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Databricks" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg">
-  <img align="center" alt="Airflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
-  <img align="center" alt="dbt" height="30" width="40" src="https://raw.githubusercontent.com/dbt-labs/dbt-logo/main/dbt-logo-light.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Databricks" height="40" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg">
+  <img align="center" alt="Airflow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Spark" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="Snowflake" height="40" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg">
+</div>
 </div>
 
   
